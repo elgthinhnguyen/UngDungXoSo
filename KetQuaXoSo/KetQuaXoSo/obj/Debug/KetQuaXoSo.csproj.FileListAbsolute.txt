@@ -1,0 +1,10 @@
+D:\BT\KetQuaXoSo\KetQuaXoSo\obj\Debug\KetQuaXoSo.csproj.AssemblyReference.cache
+D:\BT\KetQuaXoSo\KetQuaXoSo\obj\Debug\KetQuaXoSo.Form1.resources
+D:\BT\KetQuaXoSo\KetQuaXoSo\obj\Debug\KetQuaXoSo.Properties.Resources.resources
+D:\BT\KetQuaXoSo\KetQuaXoSo\obj\Debug\KetQuaXoSo.csproj.GenerateResource.cache
+D:\BT\KetQuaXoSo\KetQuaXoSo\obj\Debug\KetQuaXoSo.csproj.CoreCompileInputs.cache
+D:\BT\KetQuaXoSo\KetQuaXoSo\bin\Debug\KetQuaXoSo.exe.config
+D:\BT\KetQuaXoSo\KetQuaXoSo\bin\Debug\KetQuaXoSo.exe
+D:\BT\KetQuaXoSo\KetQuaXoSo\bin\Debug\KetQuaXoSo.pdb
+D:\BT\KetQuaXoSo\KetQuaXoSo\obj\Debug\KetQuaXoSo.exe
+D:\BT\KetQuaXoSo\KetQuaXoSo\obj\Debug\KetQuaXoSo.pdb
